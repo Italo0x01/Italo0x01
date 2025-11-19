@@ -3,17 +3,18 @@
 * I'm Italo!👨‍💻 
 * I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting and Programing ⚔🕵️‍♂️
   
-  <div id="header" align="center">
-	<a href="https://github.com/Italo0x01">
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Italo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"\>
-		
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo0x01&layout=compact&langs_count=16&theme=merko"/>
-		
+<p align="center">
+  <a href="https://github.com/Italo0x01">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Italo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Italo0x01">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo0x01&layout=compact&langs_count=16&theme=merko"/>
+  </a>
+</p>
+
 <div id="header" align="center">
 	<a href="linkedin.com/in/italo-nobre-294a5537a" height="50" width="60" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0078C7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-  </div>
 
 ##    
 <div id="header" align="center" style="display: inline_block"><br>
