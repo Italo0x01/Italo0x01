@@ -13,7 +13,7 @@
 </p>
 
 <div id="header" align="center">
-	<a href="www.linkedin.com/in/italo-nobre-294a5537a" height="50" width="60" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0078C7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/italo-nobre-294a5537a" height="50" width="60" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0078C7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 
