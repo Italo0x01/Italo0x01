@@ -20,7 +20,7 @@
 	<a href="https://www.linkedin.com/in/italo-nobre-294a5537a" height="50" width="60" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0078C7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## 
+##
 ### 🐍Programming Languages
 <div id="header" style="display: inline_block"><br>
 	<img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
