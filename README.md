@@ -28,7 +28,7 @@
 </div>
 
 ### 🐧OS
-<div id="header" style="display: inline_block"><br>
+<div id="header" align="right" style="display: inline_block"><br>
 	<img align="right" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="right" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
