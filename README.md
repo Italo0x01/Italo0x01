@@ -21,16 +21,23 @@ d## 🤖H3ll0 W0rld!
 </div>
 
 ## 
-### 🐍Programming Languages
-<div id="header" style="display: inline_block"><br>
-	<img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🐍Programming Languages</h3>
+      <div id="programming-languages" style="display: inline_block"><br>
+        <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+      </div>
+    </td>
+    
+    <td align="center">
+      <h3>💻OS (Operating System)</h3>
+      <div id="os-systems" style="display: inline_block"><br>
+        <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        <img align="center" alt="ParrotOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/parrotos/parrotos-original.svg">
+        <img align="center" alt="Kali" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
+      </div>
+    </td>
+  </tr>
 
-<span class="inline-block align-top">
-### 🐧OS
-<div id="header" align="right" style="display: inline_block"><br>
-	<img align="right" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="right" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-</div>
-</span>
